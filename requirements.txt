@@ -29,7 +29,7 @@ PyQt5-sip==4.19.15
 python-dateutil==2.7.2
 pytz==2018.3
 PyWavelets==0.5.2
-PyYAML==5.1
+PyYAML==5.4
 scikit-image==0.14.2
 scikit-learn==0.20.3
 scipy==1.0.1
